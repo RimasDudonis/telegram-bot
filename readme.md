@@ -1,4 +1,4 @@
-new changesnew changesnew changesnew changesБот написан на Python 3.10. Для работы бота необходимо дополнительно установить библиотеки 
+Бот написан на Python 3.10. Для работы бота необходимо дополнительно установить библиотеки 
 «Requests», «pyTelegramBotAPI», «python-telegram-bot-calendar», «python-dotenv», «loguru». 
 Бот использует API "rapidapi.com". Для работы с БД используется sqlite3. Бот состоит из следующих файлов:
 1. «config.py» – содержит конфигурационные настройки, такие как API key, token для telegram бота иnew changes остальные настройки.
